@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285484643165",
+    "project_id": "image-picker-ffecf",
+    "storage_bucket": "image-picker-ffecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285484643165:android:3aa57d9adbcd7ff181aeb4",
+        "android_client_info": {
+          "package_name": "com.example.image_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjc1XgNnBgU4-xEpq9XTokkiLQu8lf3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
